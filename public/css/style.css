@@ -1,0 +1,51 @@
+.wrap-books {
+    padding-top: 50px;
+}
+.invalid-book-create{
+    width:100%;
+    margin-top:.25rem;
+    font-size:80%;
+    color: red;
+}
+.books-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 0 80px 0 80px;
+}
+.book-border {
+    display: flex;
+    margin-bottom: 50px;
+}
+.book-block {
+    margin-bottom: 10px;
+}
+.book-block-img {
+    padding-right: 20px;
+}
+.book-block-img-a {
+    width: 200px;
+    height: 220px;
+}
+.nav-footer {
+    display: flex;
+    justify-content: center;
+}
+.book-pagination {
+    margin: 0 auto;
+}
+.book-info-name {
+    color: #3490dc;
+}
+.box-footer {
+    margin-bottom: 15px;
+    width: 80px;
+}
+.action-btn {
+    margin-left: auto;
+    margin-right: 0;
+    display: flex;
+}
+.btn-edit {
+    padding-left: 8px;
+}
